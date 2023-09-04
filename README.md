@@ -3,7 +3,7 @@
 
 <br/>
 
-hlo everyone, Here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
+Hlo everyone, Here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
 
 All the rooms mentioned here are absolute free. ENJOY!!
 
