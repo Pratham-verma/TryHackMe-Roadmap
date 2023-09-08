@@ -905,4 +905,4 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 
 
-## Thankyou to explore and enjoy your hacking journey!
+## Thankyou to explore and enjoy your hacking journey on TryHackMe!
